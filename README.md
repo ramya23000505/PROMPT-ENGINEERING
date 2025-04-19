@@ -113,6 +113,8 @@ Large Language Models (LLMs) are a type of artificial intelligence that can unde
 - **Improved Efficiency**: Researchers are exploring ways to make LLMs smaller and more efficient, reducing their carbon footprint while maintaining performance.  
 - **Continual Learning**: Efforts are underway to enable models to learn continually from new data without forgetting previously acquired knowledge.  
 - **Interdisciplinary Applications**: Increasing collaboration between AI and fields like medicine, law, and education to create specialized models addressing domain-specific needs.  
+# Growth over the years
+![image](https://github.com/user-attachments/assets/aee8f36d-9e19-4253-bd24-a9e9ada000e9)
 
 ## Conclusion  
 
