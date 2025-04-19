@@ -37,6 +37,7 @@ Generative models learn by analyzing large datasets, adjusting their parameters 
 
 ### 2.1. Overview of Transformers  
 Transformers are a specific architecture designed to handle sequential data, eliminating the limitations of previous recurrent neural networks (RNNs). They enable parallel processing of data, significantly improving training efficiency.  
+![image](https://github.com/user-attachments/assets/d684b164-cea5-4f3e-8ecb-e39af87d3248)
 
 ### 2.2. Components of Transformers  
 - **Encoder-Decoder Structure**: The encoder processes input data, while the decoder generates output data based on the encoder’s output.  
